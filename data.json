@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Bottle",
+      "price": 10.99
+    },
+    {
+      "id": 2,
+      "name": "Body Lotion",
+      "price": 19.99
+    },
+    {
+      "id": 3,
+      "name": "Book",
+      "price": 29.99
+    },
+    {
+      "id": 4,
+      "name": "T-Shirt",
+      "price": 39.99
+    },
+    {
+      "id": 5,
+      "name": "Speaker",
+      "price": 49.99
+    },
+    {
+      "id": 6,
+      "name": "Ear buds",
+      "price": 59.99
+    }
+  ]
+  
